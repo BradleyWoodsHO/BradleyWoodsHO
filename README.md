@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BradleyWoodsHO
+- 👋 Hi, I’m Bradley
 
 <!---
 BradleyWoodsHO/BradleyWoodsHO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
